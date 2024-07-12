@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi 👋 I’m Amit, a PhD Student @  The University of Oxford & Roche
+**I’m exploring the gut-liver axis, and I am passionate about biotech, innovation and translational research**
+
+I am currently exploring the gut-liver-microbiome axis in healthy ageing in the [Powrie Mucosal Immunology Group](https://www.kennedy.ox.ac.uk/research/research-groups/mucosal-immunology) at the University of Oxford and [pRED](https://www.roche.com/innovation/structure/pred) at Roche. I am exploring the microbe controlled components of enterohepatic circuits, and eventually hope to understand how to change these. I'm using a multiomics approach through RNA and metagenomic sequencing, as well as metagenomic metabolic modelling and *basic* wet lab techniques.
+
+I'm involved with [Nucleate](nucleate.org), a non-profit orgnaisation who's mission is to empower the next generation of biotech leaders through education and access to a global network of talent and capital. I've worked in VC and biotech & bioinformatics consultancy, and had a previous career as a scicomm influencer. 
+
+
 
 <!--
 **Amit-H/Amit-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
